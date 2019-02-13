@@ -1,0 +1,7 @@
+[submodule "sdsl-lite"]
+	path = submodules/sdsl-lite
+	url = https://github.com/xxsds/sdsl-lite
+[submodule "seqan"]
+	path = submodules/seqan
+	url = https://github.com/eseiler/seqan
+	branch = SeqAn-Hash-2
